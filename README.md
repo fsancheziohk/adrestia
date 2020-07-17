@@ -28,7 +28,7 @@ Name / Link            | Description                                          | 
 [cardano-addresses]    | Addresses and mnemonic manipulation & derivations    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [cardano-transactions] | Transaction construction and signing                 | :heavy_check_mark: | :x:                | :construction:
 
-## Haskell SDKs 
+## Haskell SDKss
 
 Name / Link              | Description                                       | Byron              | Jörmungandr        | Shelley
 ---                      | ---                                               | ---                | ---                | ---
